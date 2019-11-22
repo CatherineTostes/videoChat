@@ -1,0 +1,14 @@
+.navbar {
+  width: auto;
+  height: auto;
+}
+
+.navbar-brand {
+  color: #fff;
+  font-size: 22px;
+  font-weight: 100px;
+  font-family: cursive;
+  text-shadow: 1px 2px 1px #4C76B5;
+  display: flex;
+  justify-content: center;
+}
