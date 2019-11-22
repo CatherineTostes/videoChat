@@ -1,6 +1,15 @@
 # VideoChat
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
+Node version 12.13.1
+
+## Install Angular CLI
+`npm install -g @angular/cli`
+
+## Install Angular Material and Animations
+[Angular Material](https://material.angular.io)
+`npm install --save @angular/material @angular/cdk`
+`npm install --save @angular/animations`
 
 ## Development server
 
